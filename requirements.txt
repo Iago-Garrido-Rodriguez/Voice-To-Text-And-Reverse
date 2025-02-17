@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+os
+wave
+json
+vosk
+gtts
+ollama
